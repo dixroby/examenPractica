@@ -27,6 +27,7 @@
             <a  class="red">Unamba Repositorio</a>
             <a class="btn btn-success" href="<?php echo base_url().'category/index'; ?>"> Caterogy</a>
             <a class="btn btn-success" href="<?php echo base_url().'degree/index'; ?>"> degree</a>
+            <a class="btn btn-success" href="<?php echo base_url().'profile/index'; ?>"> profile</a>
             <hr>
 
 
